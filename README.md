@@ -2,13 +2,13 @@
 ### 👋 To become BigData&AI Specialist 👋
 ![digimon](digimon-adventure.jpg)
 
-<p align="center">
+<h2 align="center">
 🌱 저는 빅데이터와 인공지능을 공부하고, 데이터분석가로 취업을 준비하고 있습니다. 🌱
-</p>
+</h2>
 
 <h2 align="center">☾⋆⁺₊⋆💙 i can do these 💙⋆⁺₊⋆☾</h2>
  
-<p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/></a> </p>
+<p align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a> <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/></a><img src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"/></a> </p>
 
 <p align="center"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>  </p>
 
