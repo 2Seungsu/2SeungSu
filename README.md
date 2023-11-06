@@ -2,7 +2,10 @@
 ### 👋 To become AI&BigData Specialist 👋
 - [My_Project](https://2seungsu.github.io/)
 
-<img src="digimon-adventure.jpg" width="420" height="360"/>
+<p align = "left">
+<img src="digimon-adventure.jpg" width="420" height="360"/> dgrg 
+</p>
+
 
 <h2 align="center">
 🌱 저는 빅데이터와 인공지능을 활용하는, 데이터분석가로 취업을 준비하고 있습니다. 🌱
