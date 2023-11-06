@@ -1,10 +1,13 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2Seungsu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 👋 To become AI&BigData Specialist 👋
-- [My_Project](https://2seungsu.github.io/)
 
-<p align = "left">
-<img src="digimon-adventure.jpg" width="420" height="360"/> dgrg 
-</p>
+
+
+
+| [My_ProjectBlog](https://2seungsu.github.io/) | Introduction |
+| -------- | -------  |
+|<a href="https://2seungsu.github.io/"><img src="digimon-adventure.jpg" width="420" height="360"/></a> | 이름 : 이승수 <br><br> 학력 : 전북대학교 졸업 <br><br> 전공 : 통계학과(부:빅데이터융합연계전공) <br><br> 교육 : AI빅데이터 분석가 양성과정 수료 <br><br> 경력 : 공공데이터청년인턴 <br><br> 희망직무 : 데이터분석|
+
 
 
 <h2 align="center">
