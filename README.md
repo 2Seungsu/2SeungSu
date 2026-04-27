@@ -22,8 +22,9 @@
 <p align="center"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/></a> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=wh ite"/></a>  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/></a> </p> 
 <p align="center"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/></a> </p>
 
-
-<h2 align="center">⋆｡ﾟ✶°💜 Continue studying BigData & AI 💜⋆｡ﾟ✶°</h2>
+<!--
+<h2 align="center">⋆｡ﾟ✶°💜 Continue BigData & AI 💜⋆｡ﾟ✶°</h2>
+!-->
 <!--
 <p align="center"><a href="https://wonjongah.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=Undertale&logoColor=white&link=https://wonjongah.tistory.com/"/></a>  <a href="mailto:wonjongah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wonjongah@gmail.com"/></a></p>
 !-->
